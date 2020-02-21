@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27753" started-at="2020-02-21T04:06:21Z" finished-at="2020-02-21T04:06:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27753" started-at="2020-02-21T04:06:21Z" finished-at="2020-02-21T04:06:48Z">
+      <class name="testpagepkc.QuickDraftTest">
+        <test-method status="PASS" signature="UserShouldBeAbleToLogin()[pri:0, instance:testpagepkc.QuickDraftTest@59fa1d9b]" name="UserShouldBeAbleToLogin" duration-ms="27643" started-at="2020-02-20T22:06:21Z" finished-at="2020-02-20T22:06:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserShouldBeAbleToLogin -->
+      </class> <!-- testpagepkc.QuickDraftTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
